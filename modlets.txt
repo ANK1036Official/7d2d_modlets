@@ -1,0 +1,44 @@
+https://github.com/7D2DMods/SDXMods/trunk/AnimationSDX/
+https://github.com/7D2D/A17Mods/trunk/CCTV/
+https://github.com/7D2DMods/SDXMods/trunk/HalDllUpdates/
+https://github.com/War3zuk/ModLets/trunk/War3zuk Desert Eagle 50/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Mini Hatchet/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Wrench/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Xcalibur/
+https://github.com/7D2D/A17Mods/trunk/JunkItems/
+https://github.com/Khelldon/7d2dModlets/trunk/Khelldon-AwwNuts/
+https://github.com/Khelldon/7d2dModlets/trunk/Khelldon-GetNailed/
+https://github.com/Jayick/Firearms2/trunk/
+https://github.com/stasis78/7dtd-mods/trunk/NailgunSpeedMod/
+https://github.com/7D2D/A17Mods/trunk/Patch_Entity/
+https://github.com/War3zuk/ModLets/trunk/War3zuk Phury 9mm/
+https://github.com/Ragsy2145/Ragsy-Get-Real/trunk/Ragsy_Useful_Tires/
+https://github.com/stasis78/7dtd-mods/trunk/RailGunMod/
+https://github.com/7D2D/A17Mods/trunk/Radios/
+https://github.com/Russiandood/RussianDoods-Sweet-and-Juicy-Modlets/trunk/RussianDoodMSP/
+https://github.com/Russiandood/RussianDoods-Sweet-and-Juicy-Modlets/trunk/Survivors Katana/https://github.com/Russiandood/RussianDoods-Sweet-and-Juicy-Modlets/trunk/RussianDoodGC/
+https://github.com/stedman420/S420s_Other_Modlets/trunk/S420_Acid/
+https://github.com/stedman420/S420s_Other_Modlets/trunk/S420_AllVehicles/
+https://github.com/stedman420/Simple_UI_Modlets/trunk/S420_SimpleUI-Compass/
+https://github.com/stedman420/Simple_UI_Modlets/trunk/S420_SimpleUI-LeftHUD/
+https://github.com/stedman420/Simple_UI_Modlets/trunk/S420_SimpleUI-Toolbelt/
+https://github.com/stedman420/S420s_Other_Modlets/trunk/S420_PolymerArrows/
+https://github.com/SnappyYoungGuns/SnappysModlets/trunk/Solar Modlet/Mods/SnappySolarPower/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Shotgun/
+https://github.com/stallionsden/StallionModlets/trunk/Stallionsdenssurvivors/
+https://github.com/stallionsden/StallionModlets/trunk/StallionsdensMiningMachineandRainCatcher/
+https://github.com/stallionsden/StallionModlets/trunk/StallionsdensWanderingTraders/
+https://github.com/Russiandood/RussianDoods-Sweet-and-Juicy-Modlets/trunk/Survivors Katana-Easy/
+https://github.com/stallionsden/StallionModlets/trunk/Tallon/
+https://github.com/Khelldon/7d2dModlets/trunk/Khelldon-HolyHandGrenade/
+https://github.com/7D2D/A17Mods/trunk/VideoPlayers/
+https://github.com/War3zuk/ModLets/trunk/War3zuk Ammo Supplys/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Forge/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Generator/
+https://github.com/War3zuk/ModLets/trunk/War3zuk HD Lock Pick/
+https://github.com/War3zuk/ModLets/trunk/War3zuk M4A1 Carbine/
+https://github.com/War3zuk/ModLets/trunk/War3zuk Modlet Pack/
+https://github.com/Jayick/Melee--Custom-Weapons-and-Mod-Attachments/trunk/Melee/
+https://github.com/PVWolfgang/wolfgangMods/trunk/Wolfgang_noMiniCacti/
+https://github.com/PVWolfgang/wolfgangMods/trunk/Wolfgang_traderMorning/
+https://github.com/7D2D/A17SDXMods/trunk/Xyth_Bandits/
